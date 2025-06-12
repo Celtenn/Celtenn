@@ -49,3 +49,16 @@ Quote: "alias rm='mv to_trash'"
 # “I don’t always write shell, but when I do, it forks.”
 # "My shell has no bugs, just unexpected features."
 ```
+<!-- ASCII Avatar - optional -->
+   .-"      "-.
+  /            \
+ |              |
+ |,  .-.  .-.  ,|
+ | )(_o/  \o_)( |
+ |/     /\     \|
+ (_     ^^     _)
+  \__|IIIIII|__/
+   | \IIIIII/ |
+   \          /
+    `--------`
+ celtenn@terminal
