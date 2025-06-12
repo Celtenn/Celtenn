@@ -1,62 +1,36 @@
-<!-- Celtenn's GitHub Profile README - Terminal Hacker Style -->
+<!-- Celtenn's Gamer Dev GitHub Profile README -->
 
-<h1 align="center">👨‍💻 Celtenn@github:~$</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=System+Programmer+%7C+Linux+Lover;Loves+C%2C+Shell%2C+Rust%2C+Concurrency;Currently+coding+a+mini+shell..." alt="Typing SVG" />
-</p>
-
-📂 Celtenn
-├── about_me.txt
-│ ├── Passionate about low-level programming and system design
-│ ├── Obsessed with writing clean, efficient code in C & Rust
-│ └── Still stuck in Vim... send help
-│
-├── skills/
-│ ├── C.c
-│ ├── Rust.rs
-│ ├── Bash.sh
-│ ├── Python.py
-│ ├── Makefile
-│ └── GDB, Valgrind, Git, Vim
-│
-├── projects/
-│ ├── ./minishell
-│ ├── ./malloc_lab
-│ └── ./dining_philosophers
-│
-├── currently_learning/
-│ ├── Compiler Design
-│ ├── Docker & Containers
-│ └── Kernel Hacking
-│
-└── social/
-├── linkedin -> https://linkedin.com/in/EnesCelten
-├── mail -> seninmailin@gmail.com
-└── twitter -> https://twitter.com/yourhandle
-
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">🎮💻 Celtenn.exe initializing...</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Celtenn&show_icons=true&theme=matrix&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celtenn&theme=matrix&hide_border=true" height="160" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=printf(%22Hello%2C+World!%22);return+0;Game+Dev+Mode+Activated;Building+a+Shell%2C+literally" />
 </p>
 
 ---
 
-### 🏆 Trophy Room
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Celtenn&theme=monokai&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 💬 Famous Last Words
-
+### 🧙‍♂️ Who dis?
 ```bash
-Celtenn@machine:~$ echo "Happy Hacking!"
-"Talk is cheap. Show me the code." – Linus Torvalds
+> Gamer by reflexes, Dev by profession, Night Owl by choice.
+> CTRL+C CTRL+V enthusiast, but only from Stack Overflow.
+> Currently soloing the boss fight called "MiniShell Project".
+> Sometimes I touch grass (rare).
+
+🧠 Skills Unlocked
+🎯 Main Questline:
+
+🧬 System Programming (C, pthreads, memory management)
+
+🕹️ Terminal Mastery (Shell scripting, Bash fu)
+
+🛠️ Project Bosses: minishell, philosophers, malloc_lab
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Celtenn&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celtenn&theme=tokyonight&hide_border=true" height="165"/> </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Celtenn&theme=gruvbox&no-frame=true&margin-w=5" /> </p>
+
+
+🔗 Connect or Duel Me
+
+# “It compiles? Ship it.”
+# “I don’t always write shell, but when I do, it forks.”
+# "My shell has no bugs, just unexpected features."
