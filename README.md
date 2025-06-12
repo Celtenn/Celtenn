@@ -10,6 +10,21 @@
 
 ### 🧙‍♂️ Who dis?
 ```bash
+OS: Arch Linux (rice edilmiş tabii ki)
+Host: Celtenn-Machine
+Kernel: 6.6.6-hardened
+Uptime: 24 years, 7 months
+Shell: /bin/just_do_it
+Resolution: 1337x420
+Terminal: tmux + caffeine
+Editor: Vim (çıkamıyorum)
+CPU: Intel i9 - Meltdown Edition
+GPU: RTX 4090 Ti MAX+ ULTRA ++ (hayalimde)
+Memory: infinite (swap'le yaşıyorum)
+
+Quote: "alias rm='mv to_trash'"
+
+```bash
 > Gamer by reflexes, Dev by profession, Night Owl by choice.
 > CTRL+C CTRL+V enthusiast, but only from Stack Overflow.
 > Currently soloing the boss fight called "MiniShell Project".
@@ -35,17 +50,3 @@
 # “I don’t always write shell, but when I do, it forks.”
 # "My shell has no bugs, just unexpected features."
 ```
-```bash
-OS: Arch Linux (rice edilmiş tabii ki)
-Host: Celtenn-Machine
-Kernel: 6.6.6-hardened
-Uptime: 24 years, 7 months
-Shell: /bin/just_do_it
-Resolution: 1337x420
-Terminal: tmux + caffeine
-Editor: Vim (çıkamıyorum)
-CPU: Intel i9 - Meltdown Edition
-GPU: RTX 4090 Ti MAX+ ULTRA ++ (hayalimde)
-Memory: infinite (swap'le yaşıyorum)
-
-Quote: "alias rm='mv to_trash'"
