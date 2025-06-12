@@ -35,24 +35,17 @@
 # “I don’t always write shell, but when I do, it forks.”
 # "My shell has no bugs, just unexpected features."
 ```
-## 🕹️ Celtenn's XP System
-
 ```bash
-Celtenn@github:~$ xp status
-XP: 1345/2000 [Level 3]  
-Abilities Unlocked: `Advanced Shell Scripting`, `GDB Debugging`, `Concurrency Mastery`
+OS: Arch Linux (rice edilmiş tabii ki)
+Host: Celtenn-Machine
+Kernel: 6.6.6-hardened
+Uptime: 24 years, 7 months
+Shell: /bin/just_do_it
+Resolution: 1337x420
+Terminal: tmux + caffeine
+Editor: Vim (çıkamıyorum)
+CPU: Intel i9 - Meltdown Edition
+GPU: RTX 4090 Ti MAX+ ULTRA ++ (hayalimde)
+Memory: infinite (swap'le yaşıyorum)
 
-Celtenn@github:~$ xp gain 200
-+200 XP! New Level: 4 🎉  
-Unlocked: "Error Handling Wizard"
-
-Celtenn@github:~$ xp farm "malloc_lab"
-+50 XP! Completed!  
-XP: 1500/2000 [Level 4]  
-
-Celtenn@github:~$ xp status
-XP: 1500/2000 [Level 4]  
-New Ability: "Memory Leaks Slain"
-
-Celtenn@github:~$ xp grind "mini-shell"
-+300 XP! "MiniShell" boss defeated! You have reached Level 5 🎮🔥
+Quote: "alias rm='mv to_trash'"
