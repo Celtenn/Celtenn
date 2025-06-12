@@ -27,7 +27,6 @@ Quote: "alias rm='mv to_trash'"
 > Gamer by reflexes, Dev by profession, Night Owl by choice.
 > CTRL+C CTRL+V enthusiast, but only from Stack Overflow.
 > Currently soloing the boss fight called "MiniShell Project".
-> Sometimes I touch grass (rare).
 
 🧠 Skills Unlocked
 🎯 Main Questline:
