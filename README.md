@@ -1,51 +1,62 @@
-<h1 align="center">👋 Hey, I'm Celtenn</h1>
+<!-- Celtenn's GitHub Profile README - Terminal Hacker Style -->
+
+<h1 align="center">👨‍💻 Celtenn@github:~$</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer+%7C+Linux+Lover;Backend+Enthusiast+%7C+C+%2B+Shell+%2B+Rust;Open+Source+Contributor+%7C+Minimalist+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=System+Programmer+%7C+Linux+Lover;Loves+C%2C+Shell%2C+Rust%2C+Concurrency;Currently+coding+a+mini+shell..." alt="Typing SVG" />
+</p>
+
+📂 Celtenn
+├── about_me.txt
+│ ├── Passionate about low-level programming and system design
+│ ├── Obsessed with writing clean, efficient code in C & Rust
+│ └── Still stuck in Vim... send help
+│
+├── skills/
+│ ├── C.c
+│ ├── Rust.rs
+│ ├── Bash.sh
+│ ├── Python.py
+│ ├── Makefile
+│ └── GDB, Valgrind, Git, Vim
+│
+├── projects/
+│ ├── ./minishell
+│ ├── ./malloc_lab
+│ └── ./dining_philosophers
+│
+├── currently_learning/
+│ ├── Compiler Design
+│ ├── Docker & Containers
+│ └── Kernel Hacking
+│
+└── social/
+├── linkedin -> https://linkedin.com/in/Celtenn
+├── mail -> seninmailin@gmail.com
+└── twitter -> https://twitter.com/yourhandle
+
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Celtenn&show_icons=true&theme=matrix&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celtenn&theme=matrix&hide_border=true" height="160" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎯 Focused on: `System Programming`, `Shell`, `Concurrency`
-- 🧠 Exploring: `Rust`, `Docker`, `Low-Level Systems`
-- 🛠️ Projects in progress: Building my own **mini shell** from scratch
-- 📚 I enjoy clean architecture, design patterns, and reading source code
-- 💬 Ask me about: `C`, `pthread`, `Makefiles`, `bash`
-
----
-
-### 🧰 Tech Stack
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+### 🏆 Trophy Room
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Celtenn&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celtenn&theme=tokyonight" height="165">
+  <img src="https://github-profile-trophy.vercel.app/?username=Celtenn&theme=monokai&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Celtenn&theme=onedark&row=1&column=6" />
-</p>
+### 💬 Famous Last Words
 
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:seninmailin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/Celtenn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
+```bash
+Celtenn@machine:~$ echo "Happy Hacking!"
+"Talk is cheap. Show me the code." – Linus Torvalds
