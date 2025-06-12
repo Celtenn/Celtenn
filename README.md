@@ -23,12 +23,12 @@
 🕹️ Terminal Mastery (Shell scripting, Bash fu)
 
 🛠️ Project Bosses: minishell, philosophers, malloc_lab
-
+```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Celtenn&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celtenn&theme=tokyonight&hide_border=true" height="165"/> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Celtenn&theme=gruvbox&no-frame=true&margin-w=5" /> </p>
 
-
+```bash
 🔗 Connect or Duel Me
 
 # “It compiles? Ship it.”
