@@ -31,7 +31,7 @@
 │ └── Kernel Hacking
 │
 └── social/
-├── linkedin -> https://linkedin.com/in/Celtenn
+├── linkedin -> https://linkedin.com/in/EnesCelten
 ├── mail -> seninmailin@gmail.com
 └── twitter -> https://twitter.com/yourhandle
 
