@@ -49,3 +49,7 @@ Quote: "alias rm='mv to_trash'"
 # “I don’t always write shell, but when I do, it forks.”
 # "My shell has no bugs, just unexpected features."
 ```
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Celtenn/Celtenn/raw/output/github-contribution-grid-snake.svg)
