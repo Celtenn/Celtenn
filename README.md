@@ -37,6 +37,23 @@ Quote: "alias rm='mv to_trash'"
 🕹️ Terminal Mastery (Shell scripting, Bash fu)
 
 🛠️ Project Bosses: minishell, philosophers, malloc_lab
+
+
+---
+
+### 🧙 Gizli Komutlar (Just for Fun)
+
+```bash
+$ celtenn --version
+> v1.42-alpha (still refactoring life decisions)
+
+$ celtenn --help
+> Usage: git clone https://github.com/Celtenn
+> Description: Codes weird stuff. Sleeps never.
+
+$ sudo make me a developer
+> Access denied. You are already one.
+
 ```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Celtenn&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celtenn&theme=tokyonight&hide_border=true" height="165"/> </p>
 
