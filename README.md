@@ -27,7 +27,7 @@ Quote: "alias rm='mv to_trash'"
 
 🧠 Skills Unlocked:
 
-      🧩 Unreal Engine   🌐 C   💠 C++   🔷 C#
+      🌀 Unreal Engine   💻 C   ➕➕ C++   ♯ C#
 
 🎯 Main Questline:
 
