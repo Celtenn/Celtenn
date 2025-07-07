@@ -13,13 +13,11 @@
 OS: Arch Linux (rice edilmiş tabii ki)
 Host: Celtenn-Machine
 Kernel: 6.6.6-hardened
-Uptime: 24 years, 7 months
+Uptime: 25 years, 0 months
 Shell: /bin/just_do_it
 Resolution: 1337x420
 Terminal: tmux + caffeine
 Editor: Vim (çıkamıyorum)
-CPU: Intel i9 - Meltdown Edition
-GPU: RTX 4090 Ti MAX+ ULTRA ++ (hayalimde)
 Memory: infinite (swap'le yaşıyorum)
 
 Quote: "alias rm='mv to_trash'"
