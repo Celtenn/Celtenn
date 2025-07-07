@@ -25,8 +25,9 @@ Quote: "alias rm='mv to_trash'"
 > Gamer by reflexes, Dev by profession, Night Owl by choice.
 > Currently soloing the boss fight called "MiniShell Project".
 
-🧠 Skills Unlocked
-🧩 Unreal Engine   🌐 C   💠 C++   🔷 C#
+🧠 Skills Unlocked:
+
+      🧩 Unreal Engine   🌐 C   💠 C++   🔷 C#
 
 🎯 Main Questline:
 
