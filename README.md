@@ -26,6 +26,11 @@ Quote: "alias rm='mv to_trash'"
 > Currently soloing the boss fight called "MiniShell Project".
 
 🧠 Skills Unlocked
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Unreal_Engine_Logo.svg" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" height="40">
+
 🎯 Main Questline:
 
 🧬 System Programming (C, pthreads, memory management)
