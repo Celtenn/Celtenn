@@ -37,6 +37,8 @@ Quote: "alias rm='mv to_trash'"
 
       📄 HTML
 
+      🐘 PHP
+
 🎯 Main Questline:
 
 🧬 System Programming (C, pthreads, memory management)
