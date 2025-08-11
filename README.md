@@ -43,9 +43,11 @@ Quote: "alias rm='mv to_trash'"
 
 🧬 System Programming (C, pthreads, memory management)
 
+🌐 Web Development (HTML, CSS, PHP, JavaScript)
+
 🕹️ Terminal Mastery (Shell scripting, Bash fu)
 
-🛠️ Project Bosses: minishell, philosophers, malloc_lab
+🛠️ Project Bosses: MiniShell
 
 ```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Celtenn&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celtenn&theme=tokyonight&hide_border=true" height="165"/> </p>
